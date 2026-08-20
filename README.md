@@ -1,6 +1,12 @@
-در اینجا متن پیشنهادی برای قرار دادن در فایل `README.md` اصلی (که به عنوان صفحه فرود پروژه در GitHub عمل می‌کند) آورده شده است. این متن به گونه‌ای طراحی شده که ساده، حرفه‌ای و دعوت‌کننده باشد تا کاربران را به سمت مستندات ترجمه‌شده هدایت کند.
+## About Me
+| Language | Code | Link |
+| :--- | :--- | :--- |
+| **English** (Original) | `en_US` | [ABOUT.en_US.md](ABOUT.en_US.md) |
+| **Persian / فارسی** | `fa_IR` | [ABOUT.fa_IR.md](ABOUT.fa_IR.md) |
+| **Chinese / 简体中文** | `zh_CN` | [ABOUT.zh_CN.md](ABOUT.zh_CN.md) |
+| **Arabic / العربية** | `ar_AE` | [ABOUT.ar_AE.md](ABOUT.ar_AE.md) |
 
----
+
 
 ## 🌍 Language / زبان / 语言 / اللغة
 
