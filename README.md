@@ -1,5 +1,3 @@
----
-
 ## 🌍 Language / زبان / 语言 / اللغة
 
 This `README` and the main project documentation are available in multiple languages to make the project more accessible.
