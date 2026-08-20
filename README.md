@@ -1,10 +1,10 @@
 ## About Me
 | Language | Code | Link |
 | :--- | :--- | :--- |
-| **English** (Original) | `en_US` | [ABOUT.en_US.md](ABOUT.en_US.md) |
-| **Persian / فارسی** | `fa_IR` | [ABOUT.fa_IR.md](ABOUT.fa_IR.md) |
-| **Chinese / 简体中文** | `zh_CN` | [ABOUT.zh_CN.md](ABOUT.zh_CN.md) |
-| **Arabic / العربية** | `ar_AE` | [ABOUT.ar_AE.md](ABOUT.ar_AE.md) |
+| **English** (Original) | `en_US` | [ABOUT English](en_US/ABOUT.md) |
+| **Persian / فارسی** | `fa_IR` | [ABOUT Persian](fa_IR/ABOUT.md) |
+| **Chinese / 简体中文** | `zh_CN` | [ABOUT Chinese](zh_CN/ABOUT.md) |
+| **Arabic / العربية** | `ar_AE` | [ABOUT Arabic](ar_AE/ABOUT.md) |
 
 
 
@@ -16,10 +16,10 @@ Please choose your preferred language:
 
 | Language | Code | Link |
 | :--- | :--- | :--- |
-| **English** (Original) | `en_US` | [README.en_US.md](README.en_US.md) |
-| **Persian / فارسی** | `fa_IR` | [README.fa_IR.md](README.fa_IR.md) |
-| **Chinese / 简体中文** | `zh_CN` | [README.zh_CN.md](README.zh_CN.md) |
-| **Arabic / العربية** | `ar_AE` | [README.ar_AE.md](README.ar_AE.md) |
+| **English** (Original) | `en_US` | [README English](en_US/README.md) |
+| **Persian / فارسی** | `fa_IR` | [README Persian](fa_IR/README.md) |
+| **Chinese / 简体中文** | `zh_CN` | [README Chinese](zh_CN/README.md) |
+| **Arabic / العربية** | `ar_AE` | [README Arabic](ar_AE/README.md) |
 
 ---
 
