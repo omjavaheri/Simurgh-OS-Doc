@@ -34,6 +34,30 @@ Below you can find the complete documentation for the **Hardware Abstraction Lay
 | **Arabic / العربية** | `ar_AE` | [دليل هيكل HAL (العربية)](ar_AE/HAL-STRUCTURE-GUIDE.md) |
 
 ---
+
+## Layer 2 — Microkernel (Capability-Based)
+Below you can find the complete documentation for the **Microkernel** architecture — the capability model, memory management, scheduler, and IPC — in all supported languages.
+
+| Language | Code | Document |
+| :--- | :--- | :--- |
+| **English** (Original) | `en_US` | [Microkernel Layer (English)](en_US/02-Microkernel-Layer.md) |
+| **Persian / فارسی** | `fa_IR` | [لایه میکروکرنل (فارسی)](fa_IR/02-Microkernel-Layer.md) |
+| **Chinese / 简体中文** | `zh_CN` | [微内核层 (简体中文)](zh_CN/02-Microkernel-Layer.md) |
+| **Arabic / العربية** | `ar_AE` | [طبقة النواة الصغرى (العربية)](ar_AE/02-Microkernel-Layer.md) |
+
+---
+
+## Layer 3 — Kernel Subsystems (User-Space Services)
+Below you can find the complete documentation for the **Kernel Subsystems** layer — drivers, VFS, network stack, and the compositor, all running as isolated user-space processes — in all supported languages.
+
+| Language | Code | Document |
+| :--- | :--- | :--- |
+| **English** (Original) | `en_US` | [Kernel Subsystems Layer (English)](en_US/03-Kernel-Subsystems-Layer.md) |
+| **Persian / فارسی** | `fa_IR` | [لایه زیرسیستم‌های هسته‌ای (فارسی)](fa_IR/03-Kernel-Subsystems-Layer.md) |
+| **Chinese / 简体中文** | `zh_CN` | [内核子系统层 (简体中文)](zh_CN/03-Kernel-Subsystems-Layer.md) |
+| **Arabic / العربية** | `ar_AE` | [طبقة الأنظمة الفرعية للنواة (العربية)](ar_AE/03-Kernel-Subsystems-Layer.md) |
+
+---
 > **Note:** The English version is the primary reference and will always be the most up-to-date. Translations are provided as a courtesy and may slightly lag behind the original.
 
 
