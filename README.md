@@ -58,6 +58,18 @@ Below you can find the complete documentation for the **Kernel Subsystems** laye
 | **Arabic / العربية** | `ar_AE` | [طبقة الأنظمة الفرعية للنواة (العربية)](ar_AE/03-Kernel-Subsystems-Layer.md) |
 
 ---
+
+## Layer 4 — System Services + Profile Policy Layer (Version 2)
+Below you can find the complete documentation for the **System Services** layer (version 2) — Simurgh Store, Diagnostics & Telemetry, Account & Session Manager, Backup Manager, Installation Manifest, and the six-profile Profile Policy Layer — in all supported languages.
+
+| Language | Code | Document |
+| :--- | :--- | :--- |
+| **English** (Original) | `en_US` | [System Services + Policy Layer v2 (English)](en_US/04-System-Services-Policy-Layer-v2.md) |
+| **Persian / فارسی** | `fa_IR` | [لایه سرویس‌های سیستمی و Profile Policy، نسخه ۲ (فارسی)](fa_IR/04-System-Services-Policy-Layer-v2.md) |
+| **Chinese / 简体中文** | `zh_CN` | [系统服务与 Profile Policy 层 第 2 版 (简体中文)](zh_CN/04-System-Services-Policy-Layer-v2.md) |
+| **Arabic / العربية** | `ar_AE` | [طبقة خدمات النظام وProfile Policy، الإصدار ٢ (العربية)](ar_AE/04-System-Services-Policy-Layer-v2.md) |
+
+---
 > **Note:** The English version is the primary reference and will always be the most up-to-date. Translations are provided as a courtesy and may slightly lag behind the original.
 
 
